@@ -2,7 +2,6 @@
   "name": "saveandersonelementary",
   "version": "1.0.0",
   "description": "Petition information for proposed disbanding of Anderson Elementary",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,10 +10,8 @@
     "url": "git+https://github.com/Coderrob/saveandersonelementary.git"
   },
   "keywords": [
-    "anderson",
-    "elementary",
-    "allen",
-    "isd"
+    "Anderson Elementary",
+    "Allen ISD"
   ],
   "author": "",
   "license": "ISC",
