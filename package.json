@@ -1,0 +1,32 @@
+{
+  "name": "saveandersonelementary",
+  "version": "1.0.0",
+  "description": "Petition information for proposed disbanding of Anderson Elementary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coderrob/saveandersonelementary.git"
+  },
+  "keywords": [
+    "anderson",
+    "elementary",
+    "allen",
+    "isd"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Coderrob/saveandersonelementary/issues"
+  },
+  "homepage": "https://github.com/Coderrob/saveandersonelementary#readme",
+  "dependencies": {
+    "@uswds/uswds": "^3.1.0"
+  },
+  "devDependencies": {
+    "@uswds/compile": "^1.0.0-beta.3",
+    "prettier-standard": "^16.4.1"
+  }
+}

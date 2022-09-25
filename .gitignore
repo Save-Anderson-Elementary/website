@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Distribution
+dist
+
+# Code coverage
+coverage
+
+# Node
+node_modules
